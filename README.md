@@ -1,1 +1,1 @@
-Its jush basic maths 
+Its just basic maths 
